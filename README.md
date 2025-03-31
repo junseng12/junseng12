@@ -85,6 +85,4 @@ Documentation  : Markdown, Notion, Word
 - **Notion Portfolio:** *(준비 중)*
 - **GitHub:** [@junseng12](https://github.com/junseng12)
 
-```
-
 ---
