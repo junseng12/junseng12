@@ -94,28 +94,36 @@ Documentation  : Markdown, Notion, Word
 
 ## 🚀 Next Steps
 
-- ⚙️ Configure integrated test automation for all projects
+### - ⚙️ Configure integrated test automation for all projects
+
 Introduce unit + integration test automation for all projects, including Fabric-based chaincode and ZKP experiments
 
-- 🔐 Design a ZKP-based security architecture system
+### - 🔐 Design a ZKP-based security architecture system
+
 Considering how to implement the current Zero-Knowledge Address Abstraction-based model as a specific system structure
 
-- 🛠️ ZKP-based personal wallet authentication experiment
+### - 🛠️ ZKP-based personal wallet authentication experiment
+
 Design a zero-knowledge wallet that can be authenticated without external transactions and compare transaction records
 
-- 📘 Upload diagram & structure description images for each project
+### - 📘 Upload diagram & structure description images for each project
+
 Organize image visualization materials such as flowcharts, sequence diagrams, and structure diagrams and upload them to the docs/ folder
 
-- ☁️ Configure Cloud-based security experiment PoC (AWS)
+### - ☁️ Configure Cloud-based security experiment PoC (AWS)
+
 Configure IAM, authentication/authorization token flow, Zero Trust security model experiment project
 
-- 📚 Configure experimental project branches based on paper reviews
+### - 📚 Configure experimental project branches based on paper reviews
+
 Share records of structure design and project conversion based on papers read (zk-tree, ZKAA, etc.)
 
-- 🧠 Develop ZKP experimental architecture prototype
+### - 🧠 Develop ZKP experimental architecture prototype
+
 zk-SNARKs structure as snarkjs, Circom, Experiment directly with one of Zokrates
 
-- **📦 IPFS-based content addressing experiment project configuration**
+### - 📦 IPFS-based content addressing experiment project configuration
+
 File storage, sharing, verifiable storage experiment project configuration
 
 - 🏛️ Complete 1 thesis-based prototype before graduation
