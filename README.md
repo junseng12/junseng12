@@ -71,7 +71,6 @@ My long-term goal is to become a **researcher who builds real-world systems that
 - [x] Completed **unit + integration test** for all smart contract logic
 - [x] Wrote **automated test runners** & refactored async test patterns
 - [x] Built research tree for **graduate school applications**
-- [x] Designed ZKP + DID system architecture (in-progress)
 
 ---
 
