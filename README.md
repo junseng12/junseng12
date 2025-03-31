@@ -49,7 +49,7 @@ My long-term goal is to become a **researcher who builds real-world systems that
 
 ---
 
-### 2. **ZKP-based Address Abstraction Technology Application Test (In Preparation)** *(WIP)*
+### 2. **ZKP-based Address Abstraction Technology Application Test (In Preparation)**
 
 > Model: Beyond the Blockchain Address: Zero-Knowledge Address Abstraction\
 > Candidate: ZK architecture design that can support usability + privacy security at the same time\
