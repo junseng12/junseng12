@@ -2,14 +2,15 @@
 
 ## Hi, I'm Junseung Lee 
 
-> "Designing trustworthy, people-centered technologies that protect users in invisible ways."
+> ## "Designing trustworthy, people-centered technologies that protect users in invisible ways."
 
 I'm a senior student majoring in **Cybersecurity** at **Ajou University**, with a unique academic background that began in **Media & Communication**. I specialize in human-centered security infrastructure, with deep interests in:
 
-- **Blockchain systems & smart contract security**
-- **Cloud-native security & infrastructure architecture**
-- **Zero-knowledge proofs (ZKPs) & privacy-enhancing technologies**
-- **Decentralized identity, IPFS, and zero trust models**
+- ### **Blockchain systems & smart contract security**
+- ### **Cloud-native security & infrastructure architecture**
+- ### **Zero-knowledge proofs (ZKPs) & privacy-enhancing technologies**
+- ### **Decentralized identity, IPFS, and zero trust models**
+
 
 My long-term goal is to become a **researcher who builds real-world systems that protect people**, not just in theory but through transparent, verifiable, and robust architecture.
 
