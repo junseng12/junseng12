@@ -4,6 +4,7 @@
 
 > ## "Designing trustworthy, people-centered technologies that protect users in invisible ways."
 
+
 I'm a senior student majoring in **Cybersecurity** at **Ajou University**, with a unique academic background that began in **Media & Communication**. I specialize in human-centered security infrastructure, with deep interests in:
 
 - ### **Blockchain systems & smart contract security**
