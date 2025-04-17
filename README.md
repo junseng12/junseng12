@@ -10,9 +10,9 @@ I'm a senior student majoring in **Cybersecurity** at **Ajou University**, with 
 I specialize in human-centered security infrastructure, with deep interests in:
 
 - ### **Blockchain systems & smart contract security**
-- ### **Cloud-native security & infrastructure architecture**
 - ### **Zero-knowledge proofs (ZKPs) & privacy-enhancing technologies**
 - ### **Decentralized identity, IPFS, and zero trust models**
+- ### **Cloud-native security & infrastructure architecture**
 
 
 My long-term goal is to become a **researcher who builds real-world systems that protect people**, not just in theory but through transparent, verifiable, and robust architecture.
