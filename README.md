@@ -4,8 +4,10 @@
 
 > ## "Designing trustworthy, people-centered technologies that protect users in invisible ways."
 
-
-I'm a senior student majoring in **Cybersecurity** at **Ajou University**, with a unique academic background that began in **Media & Communication**. 
+🎓 Senior Cybersecurity Undergraduate @ Ajou University  
+🔐 Passionate about Human-Centered Trust Infrastructure & Privacy Tech  
+🚀 Future Researcher preparing for PET Lab (Korea Univ.) – Blockchain, ZKP, CBDC  
+🌱 Currently working on ZKPs (Circom), ZKDID, Secure Smart Contracts, and CBDC protocols
 
 I specialize in human-centered security infrastructure, with deep interests in:
 
