@@ -61,13 +61,13 @@ My long-term goal is to become a **researcher who builds real-world systems that
 <h2>📊 Development Stats</h2>
 
 <div align="center">
-  <div style="display: inline-block; width: 400px; vertical-align: top; text-align: center;">
+  <div style="display: inline-block; width: 350px; vertical-align: top; text-align: center;">
     <img src="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=dnqkd3" width="350" height="90"/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junseng12&layout=compact&theme=default" width="350" height="200"/>
   </div>
   
-  <div style="display: inline-block; width: 750px; vertical-align: top; text-align: center; margin-left: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=junseng12&theme=default" width="750"/>
+  <div style="display: inline-block; width: 650px; vertical-align: top; text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=junseng12&theme=default" width="650"/>
   </div>
 </div>
 
